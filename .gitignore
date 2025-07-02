@@ -1,2 +1,18 @@
-lmdb/*
-backup/
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual env
+venv/
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+*.out
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
