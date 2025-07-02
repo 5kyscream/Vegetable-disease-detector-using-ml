@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlantVillage-Dataset
 
 ## Download dataset
@@ -28,3 +29,6 @@ month={Sep}}
 ```
 
 TO-DO : Add Usage Documentation. In case of any confusion while trying to use this code now, please shoot an email to `sharada.mohanty@epfl.ch`
+=======
+# Vegetable-disease-detector-using-ml
+>>>>>>> 667c4572bca9b0e22d6732da57d9f9ebe0f780d3
