@@ -1,7 +1,13 @@
-*.h5
+# Ignore virtual environments
+venv/
+__pycache__/
+
+# Ignore large raw data
 /dataset/
 /raw/
 /generated_for_paper/
+
+# Ignore archives
 *.zip
 *.tar
 
