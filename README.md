@@ -1,1 +1,0 @@
-# Vegetable-disease-detector-using-ml
