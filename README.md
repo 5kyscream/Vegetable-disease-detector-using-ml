@@ -3,7 +3,6 @@
 This project is an end-to-end deep learning pipeline to **detect diseases in vegetable leaves**.  
 It uses **TensorFlow**, **Keras**, and a **Streamlit web app** for easy image classification.
 
----
 
 ## 🚀 Features
 
@@ -13,24 +12,21 @@ It uses **TensorFlow**, **Keras**, and a **Streamlit web app** for easy image cl
 ✅ Organized dataset with train/test splits  
 ✅ Runs on CPU or GPU
 
----
 
 ## 📁 Project Structure
 
 📂 leaf-disease-detector/
-│
-├── train.py # Model training script
-├── app.py # Streamlit app for prediction
-├── veg_disease_model.h5 # Saved trained model
-├── requirements.txt # Python dependencies
-├── .gitignore # Ignoring large files & datasets
-├── dataset/ # (ignored in Git) Raw & split image data
-├── raw/ # (ignored) Original raw images
-├── generated_for_paper/ # (ignored) Extra generated data
-├── README.md # This file!
 
+1. train.py # Model training script
+2. app.py # Streamlit app for prediction
+3. veg_disease_model.h5 # Saved trained model
+4. requirements.txt # Python dependencies
+5. .gitignore # Ignoring large files & datasets
+6. dataset/ # (ignored in Git) Raw & split image data
+7. raw/ # (ignored) Original raw images
+8. generated_for_paper/ # (ignored) Extra generated data
+9. README.md
 
----
 
 ## ⚡️ Quick Start
 
@@ -65,7 +61,6 @@ Visit http://localhost:8501 in your browser, upload a leaf image, and check the 
 ✅ Add more vegetable classes & diseases
 ✅ Deploy on mobile devices with TensorFlow Lite
 ✅ Integrate a feedback loop for users to help improve model accuracy
-📝 License
 
 This project is open-source.
 Feel free to fork it, improve it, and contribute!
@@ -76,6 +71,3 @@ Feel free to fork it, improve it, and contribute!
     TensorFlow, Keras, Streamlit
 
     BFG Repo-Cleaner for keeping this repo small and clean!
-
-Made with ❤️ for smart farming.
->>>>>>> 667c4572bca9b0e22d6732da57d9f9ebe0f780d3
